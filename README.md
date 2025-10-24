@@ -1,5 +1,8 @@
 # Лабораторная работа №5
 ## Скриншоты
+<img width="2534" height="1414" alt="image" src="https://github.com/user-attachments/assets/05fa47bc-d3f4-4f73-8491-17d4b97a2581" />
+<img width="2521" height="1392" alt="image" src="https://github.com/user-attachments/assets/9e689891-1258-4523-9906-26f12ebf65d9" />
+<img width="2530" height="1414" alt="image" src="https://github.com/user-attachments/assets/5d0f7317-25d4-458e-becd-23977e80778a" />
 
 
 ## Ответы на вопросы:
